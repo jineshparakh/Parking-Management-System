@@ -5,7 +5,7 @@ It is a **Client-Server Multithreaded Swing GUI App** as a part of *Skills Devel
 
 ## Utility
 
-Whenver a visitor wants to visit any company, he/she can prebook a parking slot so that hassles of finding a parking slot are reduced.
+Whenever a visitor wants to visit any company, he/she can prebook a parking slot so that hassles of finding a parking slot are reduced.
 
 ## Tech Stack
 
